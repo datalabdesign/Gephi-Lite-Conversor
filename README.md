@@ -6,7 +6,7 @@ Este repositório contém um código em Python, desenvolvido como recurso didát
 
 ## Contexto
 
-Ferramentas como o YouTube Data Tools nem sempre produzem arquivos diretamente compatíveis com o Gephi Lite, o que pode dificultar a introdução de análise de redes para iniciantes. Este notebook e o script em Python automatizam a conversão dos arquivos, proporcionando uma experiência mais acessível para aqueles que desejam explorar o uso de redes no contexto acadêmico.
+Ferramentas como o YouTube Data Tools nem sempre produzem arquivos diretamente compatíveis com o Gephi Lite, o que pode dificultar o uso combinado das duas ferramentas em cenários que os estudantes não têm infraestrutura disponível para usar a versão completa do Gephi. Este notebook e o script em Python automatizam a conversão dos arquivos, facilitando o uso do Yutube Data Tools e do Gephi Lite em atividades pedagógicas.
 
 ## Recursos
 
