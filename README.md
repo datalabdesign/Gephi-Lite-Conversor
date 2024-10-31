@@ -1,3 +1,4 @@
+<img src="logo_lab_orange.png" alt="lab_logo" width="200"/>
 
 
 # Conversor de Arquivos de Rede para Gephi Lite
