@@ -12,7 +12,7 @@ Como recurso adicional, o notebook também gera um relatório detalhado da rede 
 
 A exportação das tabelas de nós e arestas facilita uso didático e exploratório do conversor. Para o ensino, as tabelas ajudam a ilustrar como um grafo é construído “nos bastidores” e oferecem uma base para atividades de importação e construção de redes no Gephi a partir das tabelas, sendo útil para alunos que estão aprendendo os conceitos de análise de redes.
 
-A possibilidade de exportar tabelas de redes processadas no Gephi Lite adiciona uma funcionalidade que ele não possui nativamente, diferentemente do Gephi completo, que permite a exportação direta de tabelas de nós e arestas. Com essa funcionalidade, é possível exportar dados enriquecidos após a análise no Gephi Lite, como comunidades (clusters), cores e graus, e realizar análises adicionais. Isso faz do Conversor um recurso complementar para pesquisadores, professores e estudantes que necessitam acessar as tabelas para análises detalhadas, mas que possuem acesso apenas ao Gephi Lite.
+Diferentemente do Gephi completo, que permite a exportação direta de tabelas de nós e arestas, o Gephi Lite não traz essa função nativamente. A possibilidade de exportar tabelas a partir de um arquivo de rede permite ao pesquisador ou estudante usar o arquivo de rede gerado pelo Gephi Lite para acessar os dados que foram enriquecidos após a análise – como comunidades (clusters), cores e graus, e realizar análises adicionais. Isso faz do Conversor um recurso complementar também para pesquisadores, professores e estudantes que necessitam acessar as tabelas para análises detalhadas, mas que possuem acesso apenas ao Gephi Lite.
 
 ___
 
