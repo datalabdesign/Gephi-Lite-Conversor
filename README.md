@@ -2,7 +2,7 @@
 
 
 # Conversor de Arquivos de Rede para Gephi Lite
-Este repositório contém um jupyter notebook desenvolvido como recurso didático para converter arquivos de rede no formato GDF para formatos compatíveis com o Gephi Lite, como GraphML e GEXF. Criado pelo Professor Elias Bitencourt como parte do material da disciplina de Métodos Digitais do curso de Design da Universidade do Estado da Bahia (UNEB), o objetivo desse script é criar uma interface simplificada que viabilize o uso combinado do YouTube Data Tools e o Gephi Lite para atividades pedagógicas envolvendo o ensino de análise de redes.
+Este repositório contém um jupyter notebook para converter arquivos de rede no formato GDF para formatos compatíveis com o Gephi Lite, como GraphML e GEXF. Criado pelo Professor Elias Bitencourt como parte do material da disciplina de Métodos Digitais do curso de Design da Universidade do Estado da Bahia (UNEB), o objetivo desse script é criar uma interface simplificada que viabilize o uso combinado do YouTube Data Tools e o Gephi Lite em atividades pedagógicas envolvendo o ensino de análise de redes.
 
 ## Contexto
 
