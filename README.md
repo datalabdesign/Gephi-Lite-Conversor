@@ -6,7 +6,7 @@ Este repositório contém um Jupyter Notebook para converter arquivos de rede no
 
 ## Contexto
 
-O Gephi Lite é uma versão simplificada do Gephi que roda diretamente no navegador, sem necessidade de instalação, o que o torna adequado para contextos pedagógicos com infraestrutura computacional limitada. Ele aceita arquivos nos formatos GraphML e GEXF, mas não é compatível com o formato GDF. Ferramentas como o YouTube Data Tools (YDT), por outro lado, geram arquivos em formato GDF, o que impede seu uso direto no Gephi Lite. Essa incompatibilidade exige que professores convertam os arquivos manualmente ou utilizem versões completas do Gephi, que demandam mais recursos. Este notebook automatiza a conversão de arquivos GDF para formatos compatíveis com o Gephi Lite, permitindo o uso conjunto do YDT e Gephi Lite em atividades didáticas de forma simplificada.
+O Gephi Lite é uma versão simplificada do Gephi que roda diretamente no navegador, sem necessidade de instalação, o que o torna adequado para contextos pedagógicos com infraestrutura computacional limitada. Ele aceita arquivos nos formatos GraphML e GEXF, mas não é compatível com o formato GDF. Ferramentas como o YouTube Data Tools (YDT), por outro lado, geram arquivos em formato GDF, o que impede seu uso direto no Gephi Lite. Essa incompatibilidade exige que professores convertam os arquivos manualmente ou utilizem versões completas do Gephi, que nem sempre é compatível com os recursos tecnológicos disponíveis aos estudantes. Este notebook procura minimmizar essas limitações, simplificando a conversão de arquivos GDF para formatos compatíveis com o Gephi Lite, permitindo o uso conjunto do YDT e Gephi Lite em atividades didáticas.
 
 ## Recursos
 
