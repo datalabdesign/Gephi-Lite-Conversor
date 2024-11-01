@@ -2,11 +2,11 @@
 
 
 # Conversor de Arquivos de Rede para Gephi Lite
-Este repositório contém um jupyter notebook para converter arquivos de rede no formato GDF para formatos compatíveis com o Gephi Lite, como GraphML e GEXF. Criado pelo Professor Elias Bitencourt como parte do material da disciplina de Métodos Digitais do curso de Design da Universidade do Estado da Bahia (UNEB), o objetivo desse script é disponibilizar uma interface simplificada que viabilize o uso combinado do YouTube Data Tools e o Gephi Lite em atividades pedagógicas envolvendo o ensino de análise de redes.
+Este repositório contém um Jupyter Notebook para converter arquivos de rede no formato GDF para formatos compatíveis com o Gephi Lite, como GraphML e GEXF. Criado pelo Professor Elias Bitencourt como material da disciplina de Métodos Digitais do curso de Design da Universidade do Estado da Bahia (UNEB), o objetivo desse notebook é facilitar o uso do Gephi Lite em atividades pedagógicas de análise de redes. A conversão automática de arquivos GDF permite que professores e estudantes integrem o Gephi Lite a ferramentas que geram esse formato, como o YouTube Data Tools e outras, mesmo em contextos com infraestrutura computacional mais limitada.
 
 ## Contexto
 
-Ferramentas como o YouTube Data Tools nem sempre produzem arquivos diretamente compatíveis com o Gephi Lite, o que pode dificultar o uso combinado das duas ferramentas em cenários que os estudantes não têm infraestrutura disponível para usar a versão completa do Gephi. Este notebook automatiza a conversão dos arquivos, facilitando o uso do Yutube Data Tools e do Gephi Lite em atividades didáticas.
+O Gephi Lite é uma versão simplificada do Gephi que roda diretamente no navegador, sem necessidade de instalação, o que o torna adequado para contextos pedagógicos com infraestrutura computacional limitada. Ele aceita arquivos nos formatos GraphML e GEXF, mas não é compatível com o formato GDF. Ferramentas como o YouTube Data Tools (YDT), por outro lado, geram arquivos em formato GDF, o que impede seu uso direto no Gephi Lite. Essa incompatibilidade exige que professores convertam os arquivos manualmente ou utilizem versões completas do Gephi, que demandam mais recursos. Este notebook automatiza a conversão de arquivos GDF para formatos compatíveis com o Gephi Lite, permitindo o uso conjunto do YDT e Gephi Lite em atividades didáticas de forma simplificada.
 
 ## Recursos
 
@@ -17,7 +17,7 @@ Ferramentas como o YouTube Data Tools nem sempre produzem arquivos diretamente c
 ## Uso
 
 1. **Fazer o upload do arquivo GDF**:
-   - Execute o notebook ou o script em Python.
+   - Execute o notebook
    - Quando solicitado, faça o upload do arquivo de rede (.gdf).
 
 2. **Conversão Automática**:
