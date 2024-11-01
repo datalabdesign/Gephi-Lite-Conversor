@@ -2,11 +2,11 @@
 
 
 # Conversor de Arquivos de Rede para Gephi Lite
-Este repositório contém um código em Python, desenvolvido como recurso didático para converter arquivos de rede no formato GDF para formatos compatíveis com o Gephi Lite, como GraphML e GEXF. Criado pelo Professor Elias Bitencourt como parte do material da disciplina de Métodos Digitais do curso de Design da Universidade do Estado da Bahia (UNEB), o objetivo é simplificar a análise de redes usando o YouTube Data Tools e o Gephi Lite para estudantes e professores em sala de aula.
+Este repositório contém um jupyter notebook desenvolvido como recurso didático para converter arquivos de rede no formato GDF para formatos compatíveis com o Gephi Lite, como GraphML e GEXF. Criado pelo Professor Elias Bitencourt como parte do material da disciplina de Métodos Digitais do curso de Design da Universidade do Estado da Bahia (UNEB), o objetivo desse script é criar uma interface simplificada que viabilize o uso combinado do YouTube Data Tools e o Gephi Lite para atividades pedagógicas envolvendo o ensino de análise de redes.
 
 ## Contexto
 
-Ferramentas como o YouTube Data Tools nem sempre produzem arquivos diretamente compatíveis com o Gephi Lite, o que pode dificultar o uso combinado das duas ferramentas em cenários que os estudantes não têm infraestrutura disponível para usar a versão completa do Gephi. Este notebook e o script em Python automatizam a conversão dos arquivos, facilitando o uso do Yutube Data Tools e do Gephi Lite em atividades pedagógicas.
+Ferramentas como o YouTube Data Tools nem sempre produzem arquivos diretamente compatíveis com o Gephi Lite, o que pode dificultar o uso combinado das duas ferramentas em cenários que os estudantes não têm infraestrutura disponível para usar a versão completa do Gephi. Este notebook automatiza a conversão dos arquivos, facilitando o uso do Yutube Data Tools e do Gephi Lite em atividades didáticas.
 
 ## Recursos
 
@@ -30,14 +30,7 @@ Ferramentas como o YouTube Data Tools nem sempre produzem arquivos diretamente c
 
 - **Python 3.6+**
 - **Bibliotecas**: `pandas`, `networkx`
-- **Ambiente**: Google Colab (para a versão notebook) ou Python local
-
-## Exemplo de Execução
-
-```python
-# Chamando a função para iniciar a conversão
-upload_and_convert(output_format='graphml')  # Altere para 'gexf' para outro formato de saída
-```
+- **Ambiente**: Google Colab (para a versão notebook) 
 
 ## Sobre o Autor
 
