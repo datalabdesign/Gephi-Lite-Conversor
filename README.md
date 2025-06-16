@@ -1,6 +1,7 @@
 <img src="logo_lab_orange.png" alt="lab_logo" width="200"/>
 
-# Conversor de Arquivos de Rede para Gephi Lite
+# Conversor de Arquivos de Rede para Gephi Lite 
+<a href="https://colab.research.google.com/github/datalabdesign/Gephi-Lite-Conversor/blob/main/Gephi_Lite_Conversor_3.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Este repositório contém um Jupyter Notebook desenvolvido para converter arquivos de rede no formato GDF para formatos compatíveis com o Gephi Lite, como GraphML e GEXF. Criado pelo Professor Elias Bitencourt como parte do material didático da disciplina de Métodos Digitais do curso de Design da Universidade do Estado da Bahia (UNEB), o notebook facilita o uso do Gephi Lite em atividades pedagógicas de análise de redes. A ferramenta oferece conversão automática de arquivos GDF, além de um sistema de diagnóstico e geração de tabelas que auxilia no uso prático e exploratório de redes em contextos didáticos e de pesquisa.
 
